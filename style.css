@@ -1,0 +1,17 @@
+.pelicula{
+	width: 100%; 
+	height: auto; 
+	outline: 2px solid black;
+}
+
+.imagen-pelicula{
+	width: 100%; 
+	outline: 2px solid red;
+	height: auto; 
+
+}
+
+.imagen-pelicula img{
+	height: 340px; 
+	width: 100%; 
+}
